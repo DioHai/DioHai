@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello, everyone.
+![Visitor Count](https://profile-counter.glitch.me/DioHai/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioHai)](https://github.com/DioHai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioHai&layout=compact)](https://github.com/DioHai/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=DioHai&show_icons=true&theme=tokyonight)
