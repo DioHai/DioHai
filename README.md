@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, everyone.
+### Hello, everyone. I am a student from ShenzhenUniversity, learning deep learn.
 ![Visitor Count](https://profile-counter.glitch.me/DioHai/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioHai)](https://github.com/DioHai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DioHai&layout=compact)](https://github.com/DioHai/github-readme-stats)
